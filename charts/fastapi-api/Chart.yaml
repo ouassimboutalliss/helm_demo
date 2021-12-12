@@ -5,7 +5,7 @@ home: https://helm.sh/helm
 maintainers:
   - email: email@example.com
     name: ouassim
-name: Fastapi
+name: fastapi
 sources:
   - https://github.com/helm/helm
 version: 0.2.7
