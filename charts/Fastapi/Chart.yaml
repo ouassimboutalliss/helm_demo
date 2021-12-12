@@ -4,8 +4,8 @@ description: A Helm chart for Kubernetes
 home: https://helm.sh/helm
 maintainers:
   - email: email@example.com
-    name: Name
-name: example-v2
+    name: ouassim
+name: Fastapi
 sources:
   - https://github.com/helm/helm
 version: 0.2.7
