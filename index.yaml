@@ -564,4 +564,20 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
+  fastapi:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-12T17:29:18.390626547Z"
+    description: A Helm chart for Kubernetes
+    digest: e0a3c94ae05324e7cf12e9d8c65fae13b36bf3bd0f6952f47ff544ac93f45d64
+    home: https://helm.sh/helm
+    maintainers:
+    - email: email@example.com
+      name: ouassim
+    name: fastapi
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/ouassimboutalliss/helm_demo/releases/download/fastapi-0.2.7/fastapi-0.2.7.tgz
+    version: 0.2.7
 generated: "2019-12-08T02:57:21.985425597Z"
